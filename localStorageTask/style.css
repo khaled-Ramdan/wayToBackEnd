@@ -1,0 +1,55 @@
+div.in {
+    height: 100px;
+    width: 500px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+div.in input {
+    display: block;
+    width: 70%;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.btnStyle {
+    padding: 10px;
+    border: none;
+    background-color: coral;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+div.content {
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin: 20px auto;
+    width: 500px;
+    padding: 10px;
+}
+
+.itemStyle {
+    display: flex;
+    background-color: rgb(212, 228, 228);
+    width: 95%;
+    justify-content: space-around;
+    border-radius: 15px;
+    margin: 15px auto;
+    padding: 10px;
+    align-items: center;
+}
+
+.taskStyle {
+    width: 85%;
+    background-color: white;
+    overflow: hidden;
+    border-radius: 8px;
+    min-height: 40px;
+    font-size: 20px;
+}
